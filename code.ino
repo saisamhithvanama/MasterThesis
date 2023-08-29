@@ -285,7 +285,7 @@ for(int x=0; x<6; x++) {
       }
     }   
    FastLED.show();
-   delay(1000); 
+   delay(10); 
      
 }
 
