@@ -114,7 +114,7 @@ for (int i = 0; i <= 47; i++) {
 // initialize voice recognition module v3
 myVR.begin(9600);
   
-Serial.begin(9600);
+Serial.begin(115200);
 Serial.println("Elechouse Voice Recognition V3 Module\r\nControl LED sample");
 
   
